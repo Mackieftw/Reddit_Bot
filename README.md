@@ -11,8 +11,7 @@ Windows, MacOS, Linux
 Libraries - Praw
 
 # Instructions
-To use this bot you must first place both wallBot.py & bot_info.py in the same folder, following this you need to enter your
-reddit credentials into the bot_info.py file. Now that you have the code you need to change some information.
+To use this bot you must first place both reddit_bot.py & bot_info.py in the same folder, following this you need to enter your reddit credentials into the bot_info.py file. Now that you have the code you need to change some information.
 
 First - You will want to change the User_Agent to another name that will relate to what your bot is doing.
 
